@@ -37,7 +37,7 @@
 <br/><br/> 
 
 <div align="center">
-  [!<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507&show_icons=true">](https://solved.ac/profile/yeo2507) <br/><br/><br/> 
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507&show_icons=true"> <br/><br/><br/> 
   <img src="https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast">
 </div>
 
