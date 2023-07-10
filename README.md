@@ -35,10 +35,8 @@
 # 
 <br/>  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeolife&theme=highcontrast&show_icons=true"/></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=yeolife&theme=highcontrast&show_icons=true"/></a>
-</p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast) 　
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeolife&layout=compact&custom_title=My&nbsp;Languages&nbsp;Rank&bg_color=45,0094cf,ffe894&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507/)
