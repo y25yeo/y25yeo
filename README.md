@@ -10,9 +10,10 @@
 <p style="line-height: 120%;">🔧 깨끗한 코드를 위한 리팩토링에 시간을 많이 투자하는 편입니다. <br/> </p>
 </b>
 
-<br/><br/><br/>
+<br/><br/>
+#
+<br/>
 
-# 
 <h3 align="center">🧑‍💻 TIL</h3>
 <p align="center">
   <a href="https://yeolife.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-339933?style=for-the-badge&logo=storyblok&logoColor=white"></a>
@@ -32,6 +33,8 @@
 </p>
 
 <br/><br/>
+# 
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507/)
