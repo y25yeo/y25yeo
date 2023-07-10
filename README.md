@@ -4,6 +4,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Blog-339933?style=for-the-badge&logo=storyblok&logoColor=white"> 
 </p>
+
+<br>
   
 <h3 align="center"> ⚡ Tech Stack ⚡</h3>
 <p align="center">
@@ -15,6 +17,7 @@
   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp 
 </p>
+
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast)
