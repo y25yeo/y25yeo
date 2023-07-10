@@ -31,12 +31,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp 
 </p>
 
-<br/><br/>
+<br/>
+
 # 
-<br/>  
+<br/><br/> 
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507&show_icons=true"> <br/><br/>
+  [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507&show_icons=true">](https://solved.ac/profile/yeo2507) <br/><br/><br/> 
   <img src="https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast">
 </div>
 
