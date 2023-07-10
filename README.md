@@ -11,11 +11,9 @@
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white">&nbsp<br>
-  
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp 
 </p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507/) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast )
