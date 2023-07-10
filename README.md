@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <h3 align="center">🧑‍💻 TIL<br> </h3>
+  <h3 align="center">🧑‍💻 TIL</h3> <br>
   <img src="https://img.shields.io/badge/TechBlog-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white">
   <br>
   <h3 align="center"> ⚡ Tech Stack ⚡</h3>
