@@ -2,8 +2,14 @@
 
 <br>
 
+<h3 align="center">🧑‍💻 TIL</h3> <br>
+
 <p align="center">
-  <h3 align="center"> ⚡ Tech Stack ⚡</h3>
+  <img src="https://img.shields.io/badge/TechBlog-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white"> 
+</p> <br>
+  
+<h3 align="center"> ⚡ Tech Stack ⚡</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white">&nbsp
