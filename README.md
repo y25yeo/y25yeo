@@ -14,14 +14,14 @@
 #
 <br/>
 
-<h2 align="center">🧑‍💻 TIL</h2>
+<h3 align="center">🧑‍💻 TIL</h3>
 <p align="center">
   <a href="https://yeolife.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-339933?style=for-the-badge&logo=storyblok&logoColor=white"></a>
 </p>
 
 <br/>
   
-<h2 align="center"> ⚡ Tech Stack ⚡</h2>
+<h3 align="center"> ⚡ Tech Stack ⚡</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">&nbsp
@@ -36,5 +36,5 @@
 # 
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507/)
