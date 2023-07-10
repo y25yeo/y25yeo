@@ -15,7 +15,7 @@
 # 
 <h3 align="center">🧑‍💻 TIL</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Blog-339933?style=for-the-badge&logo=storyblok&logoColor=white"> 
+  <a href="https://yeolife.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-339933?style=for-the-badge&logo=storyblok&logoColor=white"></a>
 </p>
 
 <br/>
