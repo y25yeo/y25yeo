@@ -4,10 +4,10 @@
 
 # 🙋 저는요
 
-<p style="line-height: 1.1;">🌳 목표를 달성해서 얻는 것보다 발전되는 게 더 중요합니다. </p> <br/>
-<p style="line-height: 1.1;">🔥 한번 푹 빠지면 끝까지 파고드는 성격입니다. </p> <br/>
-<p style="line-height: 1.1;">💯 조금 느리더라도 꼼꼼하게 일을 처리하려는 편입니다. </p> <br/>
-<p style="line-height: 1.1;">🔧 깨끗한 코드를 위한 리팩토링에 시간을 많이 투자하는 편입니다. </p> <br/>
+<p style="line-height: 1;">🌳 목표를 달성해서 얻는 것보다 발전되는 게 더 중요합니다. </p> <br/>
+<p style="line-height: 1;">🔥 한번 푹 빠지면 끝까지 파고드는 성격입니다. </p> <br/>
+<p style="line-height: 1;">💯 조금 느리더라도 꼼꼼하게 일을 처리하려는 편입니다. </p> <br/>
+<p style="line-height: 1;">🔧 깨끗한 코드를 위한 리팩토링에 시간을 많이 투자하는 편입니다. </p> <br/>
 
 
 <br/><br/><br/>
