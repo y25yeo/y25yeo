@@ -35,6 +35,9 @@
 # 
 <br/>  
 
+<img src="https://github-readme-stats.vercel.app/api?username=yeo2507&show_icons=true">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507&show_icons=true">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507/)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast)
 
