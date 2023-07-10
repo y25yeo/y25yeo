@@ -3,19 +3,16 @@
 <br>
 
 <p align="center">
-🧑‍💻 TIL<br>
-<img src="https://img.shields.io/badge/TechBlog-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white">&nbsp
+  <h3 align="center">🧑‍💻 TIL<br> </h3>
+  <img src="https://img.shields.io/badge/TechBlog-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white"><br>
 
-<h3 align="center"> ⚡ Tech Stack ⚡</h3>
+  <h3 align="center"> ⚡ Tech Stack ⚡</h3>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp 
-  <br>
-  <br>
-  <br>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast )
