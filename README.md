@@ -2,10 +2,9 @@
 
 <br>
 
-<h3 align="center">🧑‍💻 TIL</h3> <br>
-
+<h3 align="center">🧑‍💻 TIL</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/TechBlog-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Blog-339933?style=for-the-badge&logo=storyblok&logoColor=white"> 
 </p> <br>
   
 <h3 align="center"> ⚡ Tech Stack ⚡</h3>
