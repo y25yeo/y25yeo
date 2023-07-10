@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=CDE4AD&height=220&section=header&text=안녕하세요!%20여창민입니다&fontAlignY=45&fontSize=50&animation=twinkling&stroke=fff&strokeWidth=2.2&desc=iOS%20Developer&descAlignY=73&descSize=22)
 
-# 1
+# About Me
+제 좌우명은 목표를 달성하여 얻는 것보다 목표를 달성함으로 발전되는 게 더 중요하다는 것입니다
 <br>
 
 <h3 align="center">🧑‍💻 TIL</h3>
