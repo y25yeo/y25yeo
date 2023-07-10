@@ -36,7 +36,7 @@
 <br/>  
 
 <div align="center">
-  <a href="https://solved.ac/yeo2507/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507&show_icons=true"></a> <br/><br/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507&show_icons=true"> <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast">
 </div>
 
