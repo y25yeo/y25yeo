@@ -39,8 +39,8 @@
 <h3 align="center"> 📝 BOJ
 </h3>
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507&show_icons=true"> <br/><br/><br/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507) <br/><br/><br/> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yeolife=anuraghazra&show_icons=true&theme=highcontrast)
 </div>
-
 <br/>
