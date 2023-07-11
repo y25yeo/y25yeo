@@ -41,6 +41,7 @@
 <div align="center">
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507) <br/><br/><br/> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yeolife=anuraghazra&show_icons=true&theme=highcontrast)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=highcontrast)
 </div>
+
 <br/>
