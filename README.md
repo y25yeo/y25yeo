@@ -13,14 +13,18 @@
 # 
 <br/>
 
-<h3 align="center">🧑‍💻 TIL</h3>
+<h3 align="center">🧑‍💻 TIL</h3> <br>
 <p align="center">
   <a href="https://yeolife.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-339933?style=for-the-badge&logo=storyblok&logoColor=white"></a>
 </p>
 
 <br/>
+
+#
+
+<br/>
   
-<h3 align="center"> ⚡ Tech Stack ⚡</h3> <br>
+<h3 align="center"> ⚡ Tech Stack </h3> <br>
 <p align="center">
   <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp
@@ -36,7 +40,7 @@
 # 
 <br/>
 
-<h3 align="center"> 📝 BOJ
+<h3 align="center"> 🌵 BOJ
 </h3>
 <div align="center">
   
