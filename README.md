@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=CDE4AD&height=220&section=header&text=항상%20성장하는%20여창민입니다&fontAlignY=45&fontSize=50&animation=twinkling&stroke=fff&strokeWidth=2.2&desc=iOS%20Developer&descAlignY=73&descSize=22)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=CDE4AD&height=220&section=header&text=항상%20성장하는%20여창민입니다&fontAlignY=45&fontSize=50&animation=twinkling&stroke=fff&strokeWidth=2.2&desc=Android%20Developer&descAlignY=73&descSize=22)
 
 <br>
 
@@ -20,12 +20,12 @@
 
 <br/>
   
-<h3 align="center"> ⚡ Tech Stack ⚡</h3>
+<h3 align="center"> ⚡ Tech Stack ⚡</h3> <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white">&nbsp<br>
+  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Java-1A285F?style=for-the-badge&logo=coffeescript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp <br><br>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp 
