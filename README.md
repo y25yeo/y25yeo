@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=CDE4AD&height=220&section=header&text=항상%20성장하는%20여창민입니다&fontAlignY=45&fontSize=50&animation=twinkling&stroke=fff&strokeWidth=2.2&desc=Android%20Developer&descAlignY=73&descSize=22)
-
-<br>
-
 # 🙋 저는요
 <b>
 <p style="line-height: 120%;">🌳 성과보다 발전하는 게 더 중요합니다. <br/> </p>
