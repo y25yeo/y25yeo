@@ -6,15 +6,16 @@
 <p style="line-height: 120%;">🔧 깨끗한 코드를 위한 리팩토링에 시간을 아낌없이 투자하는 편입니다. <br/> </p>
 </b>
 
+<br/>
+
 # 
+
 <br/>
 
-<h3 align="center">🧑‍💻 TIL</h3> <br>
 <p align="center">
-  <a href="https://yeolife.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-339933?style=for-the-badge&logo=storyblok&logoColor=white"></a>
+  <a href="[https://yeolife.tistory.com/](https://yeo2507.notion.site/PROFILE-ae856bd1898544a1b6beede0a9d6cc6f)" target="_blank"><img src="https://img.shields.io/badge/Profile-292929?style=for-the-badge&logo=Notion&logoColor=white"></a> &nbsp
+  <a href="https://yeolife.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F45D48?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </p>
-
-<br/>
 
 #
 
