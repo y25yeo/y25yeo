@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://yeo2507.notion.site/PROFILE-ae856bd1898544a1b6beede0a9d6cc6f" target="_blank"><img src="https://img.shields.io/badge/Profile-292929?style=for-the-badge&logo=Notion&logoColor=white"></a> &nbsp
+<!--   <a href="https://yeo2507.notion.site/PROFILE-ae856bd1898544a1b6beede0a9d6cc6f" target="_blank"><img src="https://img.shields.io/badge/Profile-292929?style=for-the-badge&logo=Notion&logoColor=white"></a> &nbsp -->
   <a href="https://yeolife.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F45D48?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </p>
 
@@ -41,7 +41,7 @@
 </h3>
 <div align="center">
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507) <br/><br/><br/> 
+  <!-->[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507) <br/><br/><br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&hide=stars,contribs&show_icons=true&theme=slateorange)
 </div>
 
