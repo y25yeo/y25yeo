@@ -9,9 +9,9 @@
 
 ### 🐾 History
 + 삼성 청년 SW 아카데미 11기 모바일 트랙 (2024.01 - 2024.12) </br>
-  + 우수상 (<a href="https://play.google.com/store/apps/details?id=com.ssafy.frogdetox&hl=ko">LLM을 활용한 투두리스트 & 도파민 디톡스 앱</a>)
+  + 우수상 <a href="https://play.google.com/store/apps/details?id=com.ssafy.frogdetox&hl=ko">LLM을 활용한 투두리스트 & 도파민 디톡스 앱</a>
 + 음악유사성 판별데이터를 활용한 아이디어 해커톤 (2022.11.15 - 2022.12.04) </br>
-  + 우수상 (<a href="https://www.etnews.com/20221220000072">감성 분석을 통한 멜로디 추천 서비스</a>)
+  + 우수상 <a href="https://www.etnews.com/20221220000072">감성 분석을 통한 멜로디 추천 서비스</a>
 + 삼성SDS 하계 대학생 알고리즘 특강 (2022.07 - 2022.07) </br>
   + SW역량테스트 Pro등급 취득
 + 정보처리기사 취득 (2022.06.17) </br>
@@ -85,6 +85,8 @@
 </details>
 
 #
+
+<br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507)
 
