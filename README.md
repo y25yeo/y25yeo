@@ -3,8 +3,6 @@
 <p>
   <a href="https://yeo2507.notion.site/PROFILE-ae856bd1898544a1b6beede0a9d6cc6f" target="_blank"><img src="https://img.shields.io/badge/Notion-292929?style=flat-square&logo=Notion&logoColor=white"></a> &nbsp
   <a href="https://yeolife.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-F45D48?style=flat-square&logo=tistory&logoColor=white"></a>
-
-  
 </p>
 
 ### 🐾 History
